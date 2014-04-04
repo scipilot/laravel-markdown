@@ -1,5 +1,5 @@
 {
-    "name": "kindari/laravel-markdown",
+    "name": "scipilot/laravel-markdown",
     "description": "Markdown Integration with Laravel's View system",
     "keywords": ["markdown", "laravel"],
     "license": "WTFPL",
@@ -13,7 +13,7 @@
         "php": ">=5.3.0",
         "illuminate/support": "4.*",
         "illuminate/view": "4.*",
-		"dflydev/markdown": "1.0.3"
+        "dflydev/markdown": "1.0.3"
     },
     "autoload": {
         "classmap":[
